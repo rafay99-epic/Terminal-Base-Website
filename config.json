@@ -1,0 +1,49 @@
+{
+  "readmeUrl": "https://github.com/rafay99-epic/rafay99-epic/blob/76f58615bc2b446fcdc0c2c885ffbbc4486d2b4b/README.md",
+  "title": "Abdul Rafay",
+  "name": "Abdul Rafay",
+  "ascii": "Abdul Rafay",
+  "social": {
+    "github": "rafay99-epic",
+    "linkedin": "abdul-rafay1999"
+  },
+  "email": "99marafay@gmail.com",
+  "ps1_hostname": "Scarlet-Speedester",
+  "ps1_username": "Abdul Rafay",
+  "repo": "https://github.com/rafay99-epic",
+  "resume_url": "https://rafay99.info",
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#000000",
+            "black": "#000000",
+            "blue": "#3465A4",
+            "brightBlack": "#555753",
+            "brightBlue": "#729FCF",
+            "brightCyan": "#34E2E2",
+            "brightGreen": "#8AE234",
+            "brightPurple": "#AD7FA8",
+            "brightRed": "#EF2929",
+            "brightWhite": "#EEEEEC",
+            "brightYellow": "#FCE94F",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#06989A",
+            "foreground": "#D3D7CF",
+            "green": "#4E9A06",
+            "name": "Tango Dark",
+            "purple": "#75507B",
+            "red": "#CC0000",
+            "selectionBackground": "#FFFFFF",
+            "white": "#D3D7CF",
+            "yellow": "#C4A000"
+    }
+  }
+}
